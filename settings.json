@@ -1,0 +1,18 @@
+{
+    "editor.cursorStyle": "block-outline",
+    "workbench.statusBar.feedback.visible": false,
+    "python.pythonPath": "/usr/local/bin/python3",
+    "python.venvPath": "~/Documents/DevOps/VirtualEnvs",
+    "python.disableInstallationCheck": true,
+    "gitlens.defaultDateShortFormat": "YYYY-MM-DD",
+    "gitlens.defaultDateFormat": "YYYY-MM-DD hh:mm:ss",
+    "gitlens.statusBar.alignment": "left",
+    "gitlens.settings.mode": "advanced",
+    "telemetry.enableTelemetry": false,
+    "editor.rulers": [80],
+    "workbench.colorCustomizations": {
+        "editorRuler.foreground": "#9e9e9e"
+    },
+    "git.enableCommitSigning": true,
+    "search.useGlobalIgnoreFiles": true,
+}
