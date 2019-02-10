@@ -1,2 +1,2 @@
-# vscode
-Visual Studio Code configurations
+# Visual Studio Code
+Configuration's repo
